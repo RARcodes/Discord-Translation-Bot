@@ -17,10 +17,12 @@ DiscordLingoBot is a fun and easy-to-use language translation bot for Discord. B
 
 ## How to Use
 
-1. Invite the bot to your server using [this link](bot-invite-link).
+1. Invite the bot to your server using [this link]([bot-invite-link](https://discord.com/api/oauth2/authorize?client_id=1185595567095681076&permissions=326417528832&scope=bot)).
 2. Type `!translate [target-language] [text]` to translate a message.
 
    Example: `!translate es Hello, how are you?`
+
+   ![DiscordLingoBot in Action](img/bot_in_action.png)
 
 3. Enjoy the translated message!
 
