@@ -22,9 +22,19 @@ DiscordLingoBot is a fun and easy-to-use language translation bot for Discord. B
 
    Example: `!translate es Hello, how are you?`
 
-   ![DiscordLingoBot in Action](img/bot_in_action.png)
+   ![DiscordLingoBot in Action](img/auto_in_action.png)
 
-3. Enjoy the translated message!
+3. **To Setup Auto Translation:**
+
+   - Configure auto-translation for your profile with:
+     - `!auto [target-language]`
+
+   Example: `!auto fr` to set up auto-translation to French.
+
+      ![DiscordLingoBot in Action](img/bot_auto.png)
+
+For more details and help, use `!helpcommands` to get a list of available commands.
+
 
 ## Getting Started
 
